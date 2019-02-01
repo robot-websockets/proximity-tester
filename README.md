@@ -18,5 +18,5 @@ You **Will** now need to change the URI in the app.js file to match that of your
 To run
 
 ```javascript
-node app.js
+node app.js --websocket_address="192.168.55.11:5001"
 ```
