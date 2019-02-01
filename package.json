@@ -1,15 +1,24 @@
 {
-    "name": "proximity-sensor-simulator",
-    "version": "1.0.0",
-    "description": "This module is used in testing the api on the robot server",
-    "main": "app.js",
-    "scripts": {},
-    "keywords": [],
-    "author": "Phil Stenning",
-    "license": "MIT",
-    "dependencies": {
-        "request": "^2.88.0",
-        "request-promise-native": "^1.0.5",
-        "yargs": "^12.0.5"
-    }
+  "name": "proximity-sensor-simulator",
+  "version": "1.0.0",
+  "description": "This module is used in testing the api on the robot server",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Phil Stenning",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robot-websockets/proximity-tester.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robot-websockets/proximity-tester/issues"
+  },
+  "homepage": "https://github.com/robot-websockets/proximity-tester#readme"
 }
